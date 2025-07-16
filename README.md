@@ -1,5 +1,12 @@
-# 💫 About Me:
-<br>⚡ Data Science Enthusiast
+# 💫✨ Hey there, I'm Kavya
+<br>⚡ AI & Data Science Explorer
+<br>🧠 Driven to develop intelligent ML systems and extract impactful insights from data
+<br>📈 Always experimenting with data analytics and real-world applications
+<br>🛠️ Creating projects that blend curiosity, creativity, and meaningful solutions
+<br>🌍 Exploring AI technologies that shape the future
+
+
+
 
 
 ## 🌐 Socials:
